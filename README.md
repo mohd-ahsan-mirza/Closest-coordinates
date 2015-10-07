@@ -5,7 +5,7 @@ The purpose of this project was to implement a solution through which two closes
 Though there are better ways of solving this problem since the solution takes  O(n^2) time to complete it's search where n is
 the total number of coordinates. For more details, read this article https://en.wikipedia.org/wiki/Closest_pair_of_points_problem
 
-There are three test files included in the project. Eeach file contains 16, 100 and 4999 coordinates respectively.
+There are three test files included in the project. Each file contains 16, 100 and 4999 coordinates respectively.
 
 There are detailed comments in project explaining how everything works and making it easier to read the code.There are some
 functions which are not part of the current scope of the project, but can be useful later in the future if someone decides
